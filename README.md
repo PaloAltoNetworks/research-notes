@@ -49,6 +49,18 @@ Publications
 [[PDF](https://github.com/PaloAltoNetworks/research-notes/blob/master/papers/RESEC_2018_paper_9.pdf)]
 [[REF](https://dl.acm.org/citation.cfm?id=3203427)]
 
+
+### 2017
+
+* Zhaoyan Xu, Tongbo Luo, Wei Xu, Kyle Sanders, and Xin Ouyang, "*Say hi to malware - using a deep learning method to understand malicious traffic*", In VB2017 (Virus Bulletin), 2017. 
+[[PDF](TBD)]
+[[REF](https://www.virusbulletin.com/conference/vb2017/abstracts/say-hi-malware-using-deep-learning-method-understand-malicious-traffic)]
+
+* Zhi Wang, Meiqi Tian, Xiao Zhang, Junnan Wang, Zheli Liu, Chunfu Jia, and Ilsun You, "*A Hybrid Learning System to Mitigate Botnet Concept Drift Attacks*", in 網際網路技術學刊, 2017.
+[[PDF](https://github.com/PaloAltoNetworks/research-notes/blob/master/papers/1592.pdf)]
+[[REF](http://jit.ndhu.edu.tw/ojs/index.php/jit/article/view/1592)]
+
+
 --------
 Presentations
 --------
