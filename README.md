@@ -56,7 +56,7 @@ Presentations
 ### 2016
 
 * Claud Xiao, "*Fruit vs Zombies: Defeat Non-jailbroken iOS Malware*", In SHAKACON'16, 2016. 
-[[PDF](https://www.slideshare.net/Shakacon/fruit-vs-zombies-defeat-nonjailbroken-ios-malware-by-claud-xiao)]
+[[PDF](https://github.com/PaloAltoNetworks/research-notes/blob/master/presentations/Shakacon2016_Claud.pdf)]
 [[REF](https://www.slideshare.net/Shakacon/fruit-vs-zombies-defeat-nonjailbroken-ios-malware-by-claud-xiao)]
 [[BLOG](https://www.slideshare.net/Shakacon/fruit-vs-zombies-defeat-nonjailbroken-ios-malware-by-claud-xiao)]
 [[TALK](https://www.youtube.com/watch?v=JkxnePzAF0o)]
