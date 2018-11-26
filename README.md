@@ -65,6 +65,11 @@ Publications
 Presentations
 --------
 
+### 2018
+
+* Arpita Biswas, "*Firmware Security 101*", In BSidesLV'18, 2018. 
+[[TALK](https://www.youtube.com/watch?v=CWzi-XxF0xs)]
+
 ### 2016
 
 * Claud Xiao, "*Fruit vs Zombies: Defeat Non-jailbroken iOS Malware*", In SHAKACON'16, 2016. 
