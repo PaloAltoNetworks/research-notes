@@ -1,19 +1,53 @@
 <a href="url"><img src="https://www.paloaltonetworks.com/content/dam/pan/en_US/images/logos/brand/pan-logo-badge-blue-medium-kick-up.png" align="middle" width="200" ></a> Security Notes
 ---------------------------------------------------
 
-Palo Alto Networks is a leader in providing cybersecurity solutions to 42500 customers in 150+ countries across multiple industries. Customers include over 85 of the Fortune 100 and more than 16% of the Global 2000. The company is a four-time Gartner Magic Quadrant leader for our innovation and ability to execute. The company's core products are a platform that includes advanced firewalls designed to provide networks security, visibility and granular control of network activity based on application, user, and content identification; cloud-based offerings that extend those firewalls to cover other aspects of security; next generation endpoint that provides threat prevention. 
+Palo Alto Networks has world-renowned experts supporting threat research efforts across the company. The completely in-house team focuses on quickly identifying, analyzing, and creating protections for attacks as they emerge—building and enhancing the automated prevention enforced through our Security Operating Platform.
+
+The team is comprised of:
+* Threat engineers, conducting research into all facets of the threat landscape and building our cloud delivered security services.
+
+* Vulnerability research, identifying new threats (including proactive research into critical zero-day vulnerabilities), and building signatures to prevent exploitation.
+
+* Global Security Response team, assessing new threats and ensuring the efficacy of our protections across the platform.
+
+* Unit 42 team, researching the latest cyber attacks and sharing the results freely with the entire community.
+
+* Endpoint and behavioral analytics threat researchers
 
 --------
 Publications
 --------
+### 2019
+* Idan Amit, John Matherly, William Hewlett, Zhi Xu, Yinnon Meshi and Yigal Weinberger, "*Machine Learning in Cyber-Security - Problems, Challenges and Data Sets*", to be published in The AAAI-19 Workshop on Engineering Dependable and Secure Machine Learning Systems, 2019.
+[[REF](https://sites.google.com/view/edsmls2019/home)]
 
 ### 2018
 
 * Oleksii Starov, Yuchen Zhou, Xiao Zhang, Najmeh Miramirkhani, and Nick Nikiforakis, "*Betrayed by Your Dashboard: Discovering Malicious Campaigns via Web Analytics*", In WWW'18, 2018. 
-[[PDF](https://dl.acm.org/citation.cfm?id=3186089)]
+[[PDF](https://github.com/PaloAltoNetworks/research-notes/blob/master/papers/WWW_2018.pdf)]
 [[REF](https://dl.acm.org/citation.cfm?id=3186089)]
 [[BLOG](https://www.yuchenzhou.info/research/manalytics)]
 [[TALK](https://www2018.thewebconf.org/)]
+
+* Michael Weber, Jun Wang, and 	Yuchen Zhou, "*Unsupervised Clustering for Identification of Malicious Domain Campaigns*", In RESEC'18 Proceedings of the First Workshop on Radical and Experiential Security, 2018. 
+[[PDF](https://github.com/PaloAltoNetworks/research-notes/blob/master/papers/PDNS_Clustering_RESEC_2018.pdf)]
+[[REF](https://dl.acm.org/citation.cfm?id=3203423)]
+
+* Cong Zheng, and Heqing Huang, "*Daemon-Guard: Towards Preventing Privilege Abuse Attacks in Android Native Daemons*", In RESEC'18 Proceedings of the First Workshop on Radical and Experiential Security, 2018. 
+[[PDF](https://github.com/PaloAltoNetworks/research-notes/blob/master/papers/RESEC_2018_paper_10.pdf)]
+[[REF](https://dl.acm.org/citation.cfm?id=3203428)]
+
+* Xiao Zhang, and Zhi Xu, "*On the Feasibility of Automatic Malware Family Signature Generation*", In RESEC'18 Proceedings of the First Workshop on Radical and Experiential Security, 2018. 
+[[PDF](https://github.com/PaloAltoNetworks/research-notes/blob/master/papers/RESEC_2018_paper_13.pdf)]
+[[REF](https://dl.acm.org/citation.cfm?doid=3203422.3203430)]
+
+* Cong Zheng, Tongbo Luo, Zhi Xu, Wenjun Hu, and Xin Ouyang, "*Android Plugin Becomes a Catastrophe to Android Ecosystem*", In RESEC'18 Proceedings of the First Workshop on Radical and Experiential Security, 2018. 
+[[PDF](https://github.com/PaloAltoNetworks/research-notes/blob/master/papers/RESEC_2018_paper_7.pdf)]
+[[REF](https://dl.acm.org/citation.cfm?id=3203425)]
+
+* Valerio Costamagna, Cong Zheng, and Heqing Huang, "*Identifying and Evading Android Sandbox Through Usage-Profile Based Fingerprints*", In RESEC'18 Proceedings of the First Workshop on Radical and Experiential Security, 2018. 
+[[PDF](https://github.com/PaloAltoNetworks/research-notes/blob/master/papers/RESEC_2018_paper_9.pdf)]
+[[REF](https://dl.acm.org/citation.cfm?id=3203427)]
 
 --------
 Presentations
