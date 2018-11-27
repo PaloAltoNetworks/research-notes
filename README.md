@@ -57,7 +57,7 @@ Publications
 [[REF](https://www.virusbulletin.com/conference/vb2017/abstracts/say-hi-malware-using-deep-learning-method-understand-malicious-traffic)]
 
 * Zhi Wang, Meiqi Tian, Xiao Zhang, Junnan Wang, Zheli Liu, Chunfu Jia, and Ilsun You, "*A Hybrid Learning System to Mitigate Botnet Concept Drift Attacks*", in Journal of Internet Technology, vol. 18, no. 6 , pp. 1419-1428, Nov. 2017.
-[[PDF](https://github.com/PaloAltoNetworks/research-notes/blob/master/papers/1592.pdf)]
+[[PDF](https://github.com/PaloAltoNetworks/research-notes/blob/master/papers/JIT%2018(6)-20%20You171122.pdf)]
 [[REF](http://jit.ndhu.edu.tw/ojs/index.php/jit/article/view/1592)]
 
 
