@@ -81,6 +81,13 @@ Presentations
 [[PDF](https://github.com/secmobi/slides/blob/master/2017.UndergroundEconomyAppleID_BSidesSF.pdf)]
 [[TALK](https://www.youtube.com/watch?v=4acVKs9WPts)]
 
+* Tongbo Luo, Zhaoyan Xu, Xing Jin, Yanhui Jia, and Xin Ouyang, "*IoTCandyJar: Towards an Intelligent-Interaction Honeypot for IoT Devices*", in BlackHat'17, 2017.
+[[PDF](https://www.blackhat.com/docs/us-17/thursday/us-17-Luo-Iotcandyjar-Towards-An-Intelligent-Interaction-Honeypot-For-IoT-Devices-wp.pdf)]
+[[TALK](https://www.youtube.com/watch?v=r6Ymr0yR_EY)]
+
+* Tongbo Luo, Cong Zheng, Zhi Xu, and Xin Ouyang, "*anti-plugin: don't let your app play as an android plugin*", in BlackHat Asia'17, 2017.
+[[PDF](https://www.blackhat.com/docs/asia-17/materials/asia-17-Luo-Anti-Plugin-Don't-Let-Your-App-Play-As-An-Android-Plugin.pdf)]
+
 ### 2016
 
 * Claud Xiao, "*Fruit vs Zombies: Defeat Non-jailbroken iOS Malware*", in SHAKACON'16, 2016. 
@@ -93,6 +100,12 @@ Presentations
 * Claud Xiao, "*Who’s Breaking into Your Garden? iOS and OS X Malware You May or May Not Know*", in BSidesSF'16, San Francisco, 2016.
 [[PDF](https://github.com/secmobi/slides/blob/master/2016.AppleMalware_BsidesSF.pdf)]
 [[TALK](https://www.youtube.com/watch?v=yRVuum-PVqM)]
+
+* Tongbo Luo and Xing Jin, "*Next Generation Of Exploit Kit Detection By Building Simulated Obfuscators*", in BlackHat'16, 2016.
+[[PDF](https://www.blackhat.com/docs/us-16/materials/us-16-Luo-Next-Generation-Of-Exploit-Kit-Detection-By-Building-Simulated-Obfuscator.pdf)]
+[[TALK](https://www.youtube.com/watch?v=l5Xcwe-MZ7Y)]
+
+* Zhi Xu, Tongbo Luo, and Cong Zheng, "*Beware! Zombies are Coming*", in VB2016 (Virus Bulletin), 2016.
 
 ### 2014
 
