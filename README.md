@@ -67,32 +67,45 @@ Presentations
 
 ### 2018
 
-* Arpita Biswas, "*Firmware Security 101*", In BSidesLV'18, Las Vegas, 2018. 
+* Bo Qu, Hui Gao, and Hui Gao "*PDF JS引擎交互式Fuzzing*", in KCon'18, 2018
+[[PDF](https://github.com/knownsec/KCon/blob/master/2018/26%E6%97%A5/26%E6%97%A5No.10-PDF%20%20JS%E5%BC%95%E6%93%8E%E4%BA%A4%E4%BA%92%E5%BC%8FFuzzing-%E9%BB%91%E5%93%A5%26swan.pdf)]
+
+
+* Arpita Biswas, "*Firmware Security 101*", in BSidesLV'18, Las Vegas, 2018. 
 [[TALK](https://www.youtube.com/watch?v=CWzi-XxF0xs)]
 
 
 ### 2017
 
-* Claud Xiao, "*The Underground Economy of Apple ID*", In BSidesSF'17, San Francisco, 2017.
+* Claud Xiao, "*The Underground Economy of Apple ID*", in BSidesSF'17, San Francisco, 2017.
 [[PDF](https://github.com/secmobi/slides/blob/master/2017.UndergroundEconomyAppleID_BSidesSF.pdf)]
 [[TALK](https://www.youtube.com/watch?v=4acVKs9WPts)]
 
 ### 2016
 
-* Claud Xiao, "*Fruit vs Zombies: Defeat Non-jailbroken iOS Malware*", In SHAKACON'16, 2016. 
+* Claud Xiao, "*Fruit vs Zombies: Defeat Non-jailbroken iOS Malware*", in SHAKACON'16, 2016. 
 [[PDF](https://github.com/PaloAltoNetworks/research-notes/blob/master/presentations/Shakacon2016_Claud.pdf)]
 [[REF](https://www.slideshare.net/Shakacon/fruit-vs-zombies-defeat-nonjailbroken-ios-malware-by-claud-xiao)]
 [[BLOG](https://www.slideshare.net/Shakacon/fruit-vs-zombies-defeat-nonjailbroken-ios-malware-by-claud-xiao)]
 [[TALK](https://www.youtube.com/watch?v=JkxnePzAF0o)]
 
 
-* Claud Xiao, "*Who’s Breaking into Your Garden? iOS and OS X Malware You May or May Not Know*", In BSidesSF'16, San Francisco, 2016.
+* Claud Xiao, "*Who’s Breaking into Your Garden? iOS and OS X Malware You May or May Not Know*", in BSidesSF'16, San Francisco, 2016.
 [[PDF](https://github.com/secmobi/slides/blob/master/2016.AppleMalware_BsidesSF.pdf)]
 [[TALK](https://www.youtube.com/watch?v=yRVuum-PVqM)]
 
 ### 2014
 
-* Claud Xiao "*Insecure Internal Storage in Android*", In HITCON'14, Taipei, 2014.
+* Bo Qu and Royce Lu, "*The Power of Pair: One Template that Reveals 100+ UAF IE Vulnerabilities*", in BlackHat Europe'14, 2014
+[[PDF](https://www.blackhat.com/docs/eu-14/materials/eu-14-Lu-The-Power-Of-Pair-One-Template-That-Reveals-100-plus-UAF-IE-Vulnerabilities.pdf)]
+[[TALK](https://www.blackhat.com/docs/eu-14/materials/eu-14-Lu-The-Power-Of-Pair-One-Template-That-Reveals-100-plus-UAF-IE-Vulnerabilities.pdf)]
+
+* Bo Qu, "*The failure and success in IE fuzzing*", in BlueHat'14, 2014
+
+* Bo Qu, Royce Lu, and Ga1ois, "*(More) Advanced defense for IE*", in POC'14, Power Of Community, 2014
+[[PDF](http://www.powerofcommunity.net/poc2014/boqu.pdf)]
+
+* Claud Xiao, "*Insecure Internal Storage in Android*", in HITCON'14, Taipei, 2014.
 [[PDF](https://github.com/secmobi/slides/blob/master/2014.AndroidInternalStorage_HITCON.pdf)]
 
 
