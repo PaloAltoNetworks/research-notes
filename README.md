@@ -76,6 +76,9 @@ Presentations
 * Tongbo Luo and Zhaoyan Xu, "*Cloud-Native Sandboxes for Microservices: Understanding New Threats and Attacks*", in **BlackHat Europe'18**, 2018.
 [[REF](https://www.blackhat.com/eu-18/briefings/schedule/index.html#cloud-native-sandboxes-for-microservices-understanding-new-threats-and-attacks-13184)]
 
+* Kyle Wilhoit, "*False Flag Foibles: Imitating Nation State Actors and Criminals to Befuddle Media and Researchers*", in **BlueHat'18**, 2018.
+[[REF](https://blogs.technet.microsoft.com/bluehat/2018/08/02/announcing-the-bluehat-v18-schedule/)]
+
 * Tao Yan and Bo Qu, "PWN Flash with Reflection and HashTables", in **Recon Montreal**, 2018.
 [[REF](https://recon.cx/2018/montreal/schedule/events/154.html)]
 [[PDF](https://recon.cx/2018/montreal/schedule/system/event_attachments/attachments/000/000/051/original/RECON-MTL-2018-Pwn_Flash_with_Reflections_and_HashTables.pdf)]
