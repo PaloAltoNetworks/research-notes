@@ -132,6 +132,11 @@ Presentations
 * Zhaoyan Xu, Jun Wang, Yucheng Zhou, Wei Xu, and Kyle Sanders, "*“$ echo Internet $>_...”: Towards Practical Internet-wide Probing and Crawling*", in **VB2016 (Virus Bulletin)**, 2016.
 [[REF](https://www.virusbulletin.com/conference/vb2016/abstracts/echo-internet-towards-practical-internet-wide-probing-and-crawling)]
 
+### 2015
+
+* Tao Yan and Bo Qu, "*Inside Flash: Flash Exploit Detection Uncovered*", in **HitCon'15**, 2015.
+[[REF](https://hitcon.org/2015/CMT/agenda/#day1-a-r2)]
+
 ### 2014
 
 * Bo Qu and Royce Lu, "*The Power of Pair: One Template that Reveals 100+ UAF IE Vulnerabilities*", in **BlackHat Europe'14**, 2014
@@ -140,7 +145,7 @@ Presentations
 
 * Bo Qu, "*The failure and success in IE fuzzing*", in **BlueHat'14**, 2014
 
-* Bo Qu, Royce Lu, and Ga1ois, "*(More) Advanced defense for IE*", in **POC'14**, Power Of Community, 2014
+* Bo Qu, Royce Lu, and Tao Yan, "*(More) Advanced defense for IE*", in **POC'14**, Power Of Community, 2014
 [[PDF](http://www.powerofcommunity.net/poc2014/boqu.pdf)]
 
 * Claud Xiao, "*Insecure Internal Storage in Android*", in **HITCON'14**, Taipei, 2014.
