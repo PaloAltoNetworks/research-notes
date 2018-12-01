@@ -75,6 +75,7 @@ Presentations
 
 * Tongbo Luo and Zhaoyan Xu, "*Cloud-Native Sandboxes for Microservices: Understanding New Threats and Attacks*", in **BlackHat Europe'18**, 2018.
 [[REF](https://www.blackhat.com/eu-18/briefings/schedule/index.html#cloud-native-sandboxes-for-microservices-understanding-new-threats-and-attacks-13184)]
+[[TALK](https://github.com/PaloAltoNetworks/research-notes/blob/master/presentations/bh_euro_2018.pdf)]
 
 * Kyle Wilhoit, "*False Flag Foibles: Imitating Nation State Actors and Criminals to Befuddle Media and Researchers*", in **BlueHat'18**, 2018.
 [[REF](https://blogs.technet.microsoft.com/bluehat/2018/08/02/announcing-the-bluehat-v18-schedule/)]
