@@ -155,10 +155,137 @@ Presentations
 * Zhaoyan Xu, Wei Xu, and Kyle Sanders, "*How malware eats cookies - an empirical study of cookies in malware's communication*", in **VB2014 (Virus Bulletin)**, 2014
 [[REF](https://www.virusbulletin.com/conference/vb2015/abstracts/how-malware-eats-cookies-empirical-study-cookies-malware-s-communication)]
 
-
 --------
 Notes
 --------
+
+* Update soon.
+
+--------
+[[Latest Unit 42 Blogs](https://researchcenter.paloaltonetworks.com/unit42/)]
+--------
+
+### 2018
+
+* Josh Grunzweig and Kyle Wilhoit , "*The Fractured Block Campaign: CARROTBAT Used to Deliver Malware Targeting Southeast Asia*", Thursday, November 29, 2018 [[URL](https://researchcenter.paloaltonetworks.com/2018/11/unit42-the-fractured-block-campaign-carrotbat-malware-used-to-deliver-malware-targeting-southeast-asia/)]
+
+* Tao Yan, Xingyu Jin, Bo Qu and Zhanglin He , "*New Wine in Old Bottle: New Azorult Variant Found in FindMyName Campaign using Fallout Exploit Kit*", Wednesday, November 21, 2018 [[URL](https://researchcenter.paloaltonetworks.com/2018/11/unit42-new-wine-old-bottle-new-azorult-variant-found-findmyname-campaign-using-fallout-exploit-kit/)]
+
+* Robert Falcone and Kyle Wilhoit , "*Analyzing OilRig’s Ops Tempo from Testing to Weaponization to Delivery*", Friday, November 16, 2018 [[URL](https://researchcenter.paloaltonetworks.com/2018/11/unit42-analyzing-oilrigs-ops-tempo-testing-weaponization-delivery/)]
+
+* Michael Weber, Jiangtao Yin, Jun Wang, Yuchen Zhou, Wei Xu and John Harrison , "*Detecting Malicious Campaigns with Machine Learning*", Friday, October 12, 2018 [[URL](https://researchcenter.paloaltonetworks.com/2018/10/unit42-detecting-malicious-campaigns-machine-learning/)]
+
+* Claud Xiao, Cong Zheng,  Xingyu Jin , "*Xbash Combines Botnet, Ransomware, Coinmining in Worm that Targets Linux and Windows*", Monday, September 17, 2018 [[URL](https://researchcenter.paloaltonetworks.com/2018/09/unit42-xbash-combines-botnet-ransomware-coinmining-worm-targets-linux-windows/)]
+
+* Kyle Wilhoit; Robert Falcone , "*OilRig Uses Updated BONDUPDATER to Target Middle Eastern Government*", Wednesday, September 12, 2018 [[URL](https://researchcenter.paloaltonetworks.com/2018/09/unit42-oilrig-uses-updated-bondupdater-target-middle-eastern-government/)]
+
+* Ruchna Nigam , "*Multi-exploit IoT/Linux Botnets Mirai and Gafgyt Target Apache Struts, SonicWall*", Sunday, September 9, 2018 [[URL](https://researchcenter.paloaltonetworks.com/2018/09/unit42-multi-exploit-iotlinux-botnets-mirai-gafgyt-target-apache-struts-sonicwall/)]
+
+* Dominik Reichel, Esmid Idrizovic , "*Slicing and Dicing CVE-2018-5002 Payloads: New CHAINSHOT Malware*", Thursday, September 6, 2018 [[URL](https://researchcenter.paloaltonetworks.com/2018/09/unit42-slicing-dicing-cve-2018-5002-payloads-new-chainshot-malware/)]
+
+* Bo Qu, Tao Yan, Rongbo Shao, Zhanglin He , "*Web-based Threats-2018 Q2: U.S. Remains #1 in Malicious Web Addresses, China Falls from #2 to #7*", Wednesday, September 5, 2018 [[URL](https://researchcenter.paloaltonetworks.com/2018/09/unit42-web-based-threats-2018-q2-u-s-remains-1-malicious-web-addresses-china-falls-2-7/)]
+
+* Robert Falcone, Bryan Lee. Riley Porter , "*OilRig targets a Middle Eastern Government and Adds Evasion Techniques to OopsIE*", Tuesday, September 4, 2018 [[URL](https://researchcenter.paloaltonetworks.com/2018/09/unit42-oilrig-targets-middle-eastern-government-adds-evasion-techniques-oopsie/)]
+
+* Robert Falcone, David Fuertes, Josh Grunzweig, Kyle Wilhoit , "*The Gorgon Group: Slithering Between Nation State and Cybercrime*", Thursday, August 2, 2018 [[URL](https://researchcenter.paloaltonetworks.com/2018/08/unit42-gorgon-group-slithering-nation-state-cybercrime/)]
+
+* Yue Chen, Wenjun Hu, Xiao Zhang, Zhi Xu , "*Hidden Devil in the Development Life Cycle: Google Play Apps Infected with Windows Executable Files*", Monday, July 30, 2018 [[URL](https://researchcenter.paloaltonetworks.com/2018/07/unit42-hidden-devil-development-life-cycle-google-play-apps-infected-windows-executable-files/)]
+
+*  Robert Falcone, Bryan Lee, Tom Lancaster , "*New Threat Actor Group DarkHydrus Targets Middle East Government*", Friday, July 27, 2018 [[URL](https://researchcenter.paloaltonetworks.com/2018/07/unit42-new-threat-actor-group-darkhydrus-targets-middle-east-government/)]
+
+* Ruchna Nigam , "*Unit 42 Finds New Mirai and Gafgyt IoT/Linux Botnet Campaigns*", Friday, July 20, 2018 [[URL](https://researchcenter.paloaltonetworks.com/2018/07/unit42-finds-new-mirai-gafgyt-iotlinux-botnet-campaigns/)]
+
+*  Jin Chen , "*Analysis of the DHCP Client Script Code Execution Vulnerability (CVE-2018-1111)*", Monday, July 16, 2018 [[URL](https://researchcenter.paloaltonetworks.com/2018/07/unit42-analysis-dhcp-client-script-code-execution-vulnerability-cve-2018-1111/)]
+
+* Brittany Ash, Josh Grunzweig, Tom Lancaster , "*RANCOR: Targeted Attacks in South East Asia Using PLAINTEE and DDKONG Malware Families*", Tuesday, June 26, 2018 [[URL](https://researchcenter.paloaltonetworks.com/2018/06/unit42-rancor-targeted-attacks-south-east-asia-using-plaintee-ddkong-malware-families/)]
+
+* Tao Yan, Bo Qu, Zhanglin He, "*The Old and New: Current Trends in Web-based Threats*", Wednesday, June 20, 2018 [[URL](https://researchcenter.paloaltonetworks.com/2018/06/unit42-the-old-and-new-current-trends-in-web-based-threats/)]
+
+* Tao Yan, Bo Qu, Zhanglin He, "*Phishing in a Nutshell: January – March 2018*", Monday, June 18, 2018 [[URL](https://researchcenter.paloaltonetworks.com/2018/06/unit42-phishing-nutshell-january-march-2018/)]
+
+* Yanhui Jia, Matt Tennis, Yi Ren, Rongbo Shao , "*Exploit in the Wild: #drupalgeddon2 – Analysis of CVE-2018-7600*", Tuesday, May 1, 2018 [[URL](https://researchcenter.paloaltonetworks.com/2018/05/unit42-exploit-wild-drupalgeddon2-analysis-cve-2018-7600/)]
+
+* Alex Hinchliffe, Mike Harbison, Jen Miller-Osborn, Tom Lancaster , "*HenBox: Inside the Coop*", Thursday, April 26, 2018 [[URL](https://researchcenter.paloaltonetworks.com/2018/04/unit42-henbox-inside-coop/)]
+
+* Josh Grunzweig, Brandon Levene, Kyle Wilhoit, Pat Litke , "*SquirtDanger: The Swiss Army Knife Malware from Veteran Malware Author TheBottle*", Tuesday, April 17, 2018 [[URL](https://researchcenter.paloaltonetworks.com/2018/04/unit42-squirtdanger-swiss-army-knife-malware-veteran-malware-author-thebottle/)]
+
+* Ruchna Nigam , "*Reaper Group’s Updated Mobile Arsenal*", Thursday, April 5, 2018 [[URL](https://researchcenter.paloaltonetworks.com/2018/04/unit42-reaper-groups-updated-mobile-arsenal/)]
+
+* Ruchna Nigam, Kyle Wilhoit , "*TeleRAT: Another Android Trojan Leveraging Telegram’s Bot API to Target Iranian Users*", Tuesday, March 20, 2018 [[URL](https://researchcenter.paloaltonetworks.com/2018/03/unit42-telerat-another-android-trojan-leveraging-telegrams-bot-api-to-target-iranian-users/)]
+
+* Alex Hinchliffe, Mike Harbison, Jen Miller-Osborn, Tom Lancaster , "*HenBox: The Chickens Come Home to Roost*", Tuesday, March 13, 2018 [[URL](https://researchcenter.paloaltonetworks.com/2018/03/unit42-henbox-chickens-come-home-roost/)]
+
+* Brandon Levene, Josh Grunzweig, Brittany Ash , "*Patchwork Continues to Deliver BADNEWS to the Indian Subcontinent*", Wednesday, March 7, 2018 [[URL](https://researchcenter.paloaltonetworks.com/2018/03/unit42-patchwork-continues-deliver-badnews-indian-subcontinent/)]
+
+* Brandon Levene; Josh Grunzweig , "*Sure, I’ll take that! New ComboJack Malware Alters Clipboards to Steal Cryptocurrency*", Monday, March 5, 2018 [[URL](https://researchcenter.paloaltonetworks.com/2018/03/unit42-sure-ill-take-new-combojack-malware-alters-clipboards-steal-cryptocurrency/)]
+
+* Jeff White, "*Dissecting Hancitor’s Latest 2018 Packer*", Tuesday, February 27, 2018 [[URL](https://researchcenter.paloaltonetworks.com/2018/02/unit42-dissecting-hancitors-latest-2018-packer/)]
+
+* Jeff White, "*PowerStager Analysis*", Friday, January 12, 2018 [[URL](https://researchcenter.paloaltonetworks.com/2018/01/unit42-powerstager-analysis/)]
+
+* Cong Zheng, Claud Xiao, Yanhui Jia , "*IoT Malware Evolves to Harvest Bots by Exploiting a Zero-day Home Router Vulnerability*", Thursday, January 11, 2018 [[URL](https://researchcenter.paloaltonetworks.com/2018/01/unit42-iot-malware-evolves-harvest-bots-exploiting-zero-day-home-router-vulnerability/)]
+
+### 2017
+
+* Dominik Reichel, "*Abusing the Service Control Manager to Establish Persistence for Non-Service Applications*", Monday, December 18, 2017 [[URL](https://researchcenter.paloaltonetworks.com/2017/12/unit42-abusing-service-control-manager-establish-persistence-non-service-applications/)]
+
+* Yanhui Jia, Taojie Wang; Zhibin Zhang , "*Analysis of CVE-2017-11882 Exploit in the Wild*", Friday, December 8, 2017 [[URL](https://researchcenter.paloaltonetworks.com/2017/12/unit42-analysis-of-cve-2017-11882-exploit-in-the-wild/)]
+
+* Anthony Kasza, Juan Cortes; Micah Yates , "*Operation Blockbuster Goes Mobile*", Monday, November 20, 2017 [[URL](https://researchcenter.paloaltonetworks.com/2017/11/unit42-operation-blockbuster-goes-mobile/)]
+
+* Tom Lancaster, "*Muddying the Water: Targeted Attacks in the Middle East*", Tuesday, November 14, 2017 [[URL](https://researchcenter.paloaltonetworks.com/2017/11/unit42-muddying-the-water-targeted-attacks-in-the-middle-east/)]
+
+* Jacob Soo; Josh Grunzweig , "*Recent InPage Exploits Lead to Multiple Malware Families*", Thursday, November 2, 2017 [[URL](https://researchcenter.paloaltonetworks.com/2017/11/unit42-recent-inpage-exploits-lead-multiple-malware-families/)]
+
+* Brandon Levene, Brandon Young; Dominik Reichel , "*Everybody Gets One: QtBot Used to Distribute Trickbot and Locky*", Wednesday, November 1, 2017 [[URL](https://researchcenter.paloaltonetworks.com/2017/11/unit42-everybody-gets-one-qtbot-used-distribute-trickbot-locky/)]
+
+* Yuchen Zhou, Wei Xu, Jun Wang and Wayne Xin , "*Unauthorized Coin Mining in the Browser*", Tuesday, October 17, 2017 [[URL](https://researchcenter.paloaltonetworks.com/2017/10/unit42-unauthorized-coin-mining-browser/)]
+
+* Juan Cortes and Esmid Idrizovic , "*FreeMilk: A Highly Targeted Spear Phishing Campaign*", Thursday, October 5, 2017 [[URL](https://researchcenter.paloaltonetworks.com/2017/10/unit42-freemilk-highly-targeted-spear-phishing-campaign/)]
+
+* Jeff White, "*Analyzing the Various Layers of AgentTesla’s Packing*", Monday, September 25, 2017 [[URL](https://researchcenter.paloaltonetworks.com/2017/09/unit42-analyzing-various-layers-agentteslas-packing/)]
+
+* Ryan Salsamendi , "*Palo Alto Networks Discovers New QEMU Vulnerability*", Thursday, September 14, 2017 [[URL](https://researchcenter.paloaltonetworks.com/2017/09/unit42-palo-alto-networks-discovers-new-qemu-vulnerability/)]
+
+* Richard Wartell , "*LabyREnth CTF 2017: Check Out the Prizes*", Friday, September 8, 2017 [[URL](https://researchcenter.paloaltonetworks.com/2017/09/unit42-labyrenth-ctf-2017-check-out-the-prizes/)]
+
+* Cong Zheng, Wenjun Hu, Xiao Zhang and Zhi Xu , "*Android Toast Overlay Attack: “Cloak and Dagger” with No Permissions*", Thursday, September 7, 2017 [[URL](https://researchcenter.paloaltonetworks.com/2017/09/unit42-android-toast-overlay-attack-cloak-and-dagger-with-no-permissions/)]
+
+* Dominik Reichel , "*Analysing a 10-Year-Old SNOWBALL*", Wednesday, September 6, 2017 [[URL](https://researchcenter.paloaltonetworks.com/2017/09/unit42-analysing-10-year-old-snowball/)]
+
+* Jeff White, "*The Curious Case of Notepad and Chthonic: Exposing a Malicious Infrastructure*", Tuesday, August 15, 2017 [[URL](https://researchcenter.paloaltonetworks.com/2017/08/unit42-the-curious-case-of-notepad-and-chthonic-exposing-a-malicious-infrastructure/)]
+
+* Anthony Kasza , "*The Blockbuster Saga Continues*", Monday, August 14, 2017 [[URL](https://researchcenter.paloaltonetworks.com/2017/08/unit42-blockbuster-saga-continues/)]
+
+*  Richard Wartell, Tyler Halfpop and Jeff White , "*LabyREnth CTF 2017 Winners!*", Thursday, August 3, 2017 [[URL](https://researchcenter.paloaltonetworks.com/2017/08/unit42-labyrenth-ctf-2017-winners/)]
+
+* Tomer Bar and Simon Conant, "*Prince of Persia – Ride the Lightning: Infy returns as “Foudre”*", Tuesday, August 1, 2017 [[URL](https://researchcenter.paloaltonetworks.com/2017/08/unit42-prince-persia-ride-lightning-infy-returns-foudre/)]
+
+* Richard Wartell , "*LabyREnth CTF 2017 Final Week: Beat the Maze!*", Tuesday, July 18, 2017 [[URL](https://researchcenter.paloaltonetworks.com/2017/07/unit42-labyrenth-ctf-2017-final-week-beat-maze/)]
+
+* Wenjun Hu, Cong Zheng and Zhi Xu , "*SpyDealer: Android Trojan Spying on More Than 40 Apps*", Thursday, July 6, 2017 [[URL](https://researchcenter.paloaltonetworks.com/2017/07/unit42-spydealer-android-trojan-spying-40-apps/)]
+
+* Samantha Pierre, Richard Wartell, Tyler Halfpop and Jeff White , "*VIDEO: Tips, Tricks, and Clues to Escape the LabyREnth CTF*", Sunday, June 18, 2017 [[URL](https://researchcenter.paloaltonetworks.com/2017/06/unit42-video-tips-tricks-clues-escape-labyrenth-ctf/)]
+
+* Erye Hernandez and Danny Tsechansky , "*The New and Improved macOS Backdoor from OceanLotus*", Thursday, June 22, 2017 [[URL](https://researchcenter.paloaltonetworks.com/2017/06/unit42-new-improved-macos-backdoor-oceanlotus/)]
+
+* Richard Wartell and Tyler Halfpop , "*LabyREnth CTF 2017 Launch Day: The Challenge Starts Now!*", Friday, June 9, 2017 [[URL](https://researchcenter.paloaltonetworks.com/2017/06/unit42-labyrenth-ctf-2017-launch-day-challenge-starts-now/)]
+
+* Richard Wartell , "*LabyREnth CTF 2017: One Week Countdown*", Friday, June 2, 2017 [[URL](https://researchcenter.paloaltonetworks.com/2017/06/unit42-labyrenth-ctf-2017-one-week-countdown/)]
+
+* Tao Yan , "*A Dissection of the “EsteemAudit” Windows Remote Desktop Exploit*", Wednesday, May 31, 2017 [[URL](http://researchcenter.paloaltonetworks.com/2017/05/unit42-dissection-esteemaudit-windows-remote-desktop-exploit/)]
+
+* Richard Wartell and Tyler Halfpop , "*LabyREnth Teaser Site*", Thursday, May 11, 2017 [[URL](http://researchcenter.paloaltonetworks.com/2017/05/unit42-labyrenth-teaser-site/)]
+
+* Claud Xiao, Cong Zheng and Yanhui Jia , "*New IoT/Linux Malware Targets DVRs, Forms Botnet*", Thursday, April 6, 2017 [[URL](http://researchcenter.paloaltonetworks.com/2017/04/unit42-new-iotlinux-malware-targets-dvrs-forms-botnet/ )]
+
+* Cong Zheng, Wenjun Hu and Zhi Xu , "*A New Trend in Android Adware: Abusing Android Plugin Frameworks*", Wednesday, March 22, 2017 [[URL](http://researchcenter.paloaltonetworks.com/2017/03/unit42-new-trend-android-adware-abusing-android-plugin-frameworks/)]
+
+* Xiao Zhang, Wenjun Hu and Shawn Jin , "*Google Play Apps Infected with Malicious IFrames*", Wednesday, March 1, 2017 [[URL](http://researchcenter.paloaltonetworks.com/2017/03/unit42-google-play-apps-infected-malicious-iframes/)]
+
+### 2014 ~ 2016
+
+Please check [[Unit 42 Archives](https://researchcenter.paloaltonetworks.com/unit42/)]
 
 
 
