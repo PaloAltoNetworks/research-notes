@@ -24,29 +24,29 @@ Publications
 ### 2018
 
 * Oleksii Starov, Yuchen Zhou, Xiao Zhang, Najmeh Miramirkhani, and Nick Nikiforakis, "*Betrayed by Your Dashboard: Discovering Malicious Campaigns via Web Analytics*", in World Wild Web (WWW'18), 2018. 
-[[PDF](https://github.com/PaloAltoNetworks/research-notes/blob/master/papers/WWW_2018.pdf)]
+[[PDF](https://github.com/PaloAltoNetworks/research-notes/blob/master/papers/Betrayed%20by%20Your%20Dashboard%20Discovering%20Malicious%20Campaigns%20via%20Web%20Analytics.pdf)]
 [[REF](https://dl.acm.org/citation.cfm?id=3186089)]
 [[BLOG](https://www.yuchenzhou.info/research/manalytics)]
 [[TALK](https://www2018.thewebconf.org/)]
 
 * Michael Weber, Jun Wang, and 	Yuchen Zhou, "*Unsupervised Clustering for Identification of Malicious Domain Campaigns*", In RESEC'18 Proceedings of the First Workshop on Radical and Experiential Security, 2018. 
-[[PDF](https://github.com/PaloAltoNetworks/research-notes/blob/master/papers/PDNS_Clustering_RESEC_2018.pdf)]
+[[PDF](https://github.com/PaloAltoNetworks/research-notes/blob/master/papers/Unsupervised%20Clustering%20for%20Identification%20of%20Malicious%20Domain%20Campaigns.pdf)]
 [[REF](https://dl.acm.org/citation.cfm?id=3203423)]
 
 * Cong Zheng, and Heqing Huang, "*Daemon-Guard: Towards Preventing Privilege Abuse Attacks in Android Native Daemons*", In RESEC'18 Proceedings of the First Workshop on Radical and Experiential Security, 2018. 
-[[PDF](https://github.com/PaloAltoNetworks/research-notes/blob/master/papers/RESEC_2018_paper_10.pdf)]
+[[PDF](https://github.com/PaloAltoNetworks/research-notes/blob/master/papers/Daemon-Guard%20Towards%20Preventing%20Privilege%20Abuse%20Attacks%20in%20Android%20Native%20Daemons.pdf)]
 [[REF](https://dl.acm.org/citation.cfm?id=3203428)]
 
 * Xiao Zhang, and Zhi Xu, "*On the Feasibility of Automatic Malware Family Signature Generation*", In RESEC'18 Proceedings of the First Workshop on Radical and Experiential Security, 2018. 
-[[PDF](https://github.com/PaloAltoNetworks/research-notes/blob/master/papers/RESEC_2018_paper_13.pdf)]
+[[PDF](https://github.com/PaloAltoNetworks/research-notes/blob/master/papers/On%20the%20Feasibility%20of%20Automatic%20Malware%20Family%20Signature%20Generation.pdf)]
 [[REF](https://dl.acm.org/citation.cfm?doid=3203422.3203430)]
 
 * Cong Zheng, Tongbo Luo, Zhi Xu, Wenjun Hu, and Xin Ouyang, "*Android Plugin Becomes a Catastrophe to Android Ecosystem*", In RESEC'18 Proceedings of the First Workshop on Radical and Experiential Security, 2018. 
-[[PDF](https://github.com/PaloAltoNetworks/research-notes/blob/master/papers/RESEC_2018_paper_7.pdf)]
+[[PDF](https://github.com/PaloAltoNetworks/research-notes/blob/master/papers/Android%20Plugin%20Becomes%20a%20Catastrophe%20to%20Android%20Ecosystem.pdf)]
 [[REF](https://dl.acm.org/citation.cfm?id=3203425)]
 
 * Valerio Costamagna, Cong Zheng, and Heqing Huang, "*Identifying and Evading Android Sandbox Through Usage-Profile Based Fingerprints*", In RESEC'18 Proceedings of the First Workshop on Radical and Experiential Security, 2018. 
-[[PDF](https://github.com/PaloAltoNetworks/research-notes/blob/master/papers/RESEC_2018_paper_9.pdf)]
+[[PDF](https://github.com/PaloAltoNetworks/research-notes/blob/master/papers/Identifying%20and%20Evading%20Android%20Sandbox%20Through%20Usage-Profile%20Based%20Fingerprints.pdf)]
 [[REF](https://dl.acm.org/citation.cfm?id=3203427)]
 
 * Tao Zhang, Wenjun Hu, Xiapu Luo, and Xiaobo Ma, "*A Commit Messages-Based Bug Localization for Android Applications*", In International Journal of Software Engineering and Knowledge Engineering, 2018.
@@ -75,7 +75,7 @@ Presentations
 
 * Tongbo Luo and Zhaoyan Xu, "*Cloud-Native Sandboxes for Microservices: Understanding New Threats and Attacks*", in **BlackHat Europe'18**, 2018.
 [[REF](https://www.blackhat.com/eu-18/briefings/schedule/index.html#cloud-native-sandboxes-for-microservices-understanding-new-threats-and-attacks-13184)]
-[[TALK](https://github.com/PaloAltoNetworks/research-notes/blob/master/presentations/bh_euro_2018.pdf)]
+[[TALK](https://github.com/PaloAltoNetworks/research-notes/blob/master/presentations/Cloud-Native%20Sandboxes%20for%20Microservices%20Understanding%20New%20Threats%20and%20Attacks.pdf)]
 
 * Kyle Wilhoit, "*False Flag Foibles: Imitating Nation State Actors and Criminals to Befuddle Media and Researchers*", in **BlueHat'18**, 2018.
 [[REF](https://blogs.technet.microsoft.com/bluehat/2018/08/02/announcing-the-bluehat-v18-schedule/)]
@@ -113,7 +113,7 @@ Presentations
 ### 2016
 
 * Claud Xiao, "*Fruit vs Zombies: Defeat Non-jailbroken iOS Malware*", in **SHAKACON'16**, 2016. 
-[[PDF](https://github.com/PaloAltoNetworks/research-notes/blob/master/presentations/Shakacon2016_Claud.pdf)]
+[[PDF](https://github.com/PaloAltoNetworks/research-notes/blob/master/presentations/Fruit%20vs%20Zombies%20Defeat%20Non-jailbroken%20iOS%20Malware.pdf)]
 [[REF](https://www.slideshare.net/Shakacon/fruit-vs-zombies-defeat-nonjailbroken-ios-malware-by-claud-xiao)]
 [[BLOG](https://www.slideshare.net/Shakacon/fruit-vs-zombies-defeat-nonjailbroken-ios-malware-by-claud-xiao)]
 [[TALK](https://www.youtube.com/watch?v=JkxnePzAF0o)]
