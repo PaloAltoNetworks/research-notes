@@ -165,7 +165,11 @@ We would be happy to contribute data sets to the security research community. [M
 Notes
 --------
 
-* Update soon.
+* Bo Qu, "*Internet Explorer Fuzzing*"
+[Talk slide to be added]
+
+* Bo Qu, "Fuzzing For Fun"
+[Talk slide to be added]
 
 --------
 [[Latest Unit 42 Blogs](https://researchcenter.paloaltonetworks.com/unit42/)]
