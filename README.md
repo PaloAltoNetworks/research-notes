@@ -156,6 +156,12 @@ Presentations
 [[REF](https://www.virusbulletin.com/conference/vb2015/abstracts/how-malware-eats-cookies-empirical-study-cookies-malware-s-communication)]
 
 --------
+Data sets
+--------
+
+We would be happy to contribute data sets to the security research community. [More info](https://github.com/PaloAltoNetworks/research-notes/tree/master/data-sets)
+
+--------
 Notes
 --------
 
