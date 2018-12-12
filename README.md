@@ -98,7 +98,6 @@ Presentations
 [[PDF](TBD)]
 [[REF](https://www.virusbulletin.com/conference/vb2017/abstracts/say-hi-malware-using-deep-learning-method-understand-malicious-traffic)]
 
-
 * Claud Xiao, "*The Underground Economy of Apple ID*", in **BSidesSF'17**, San Francisco, 2017.
 [[PDF](https://github.com/secmobi/slides/blob/master/2017.UndergroundEconomyAppleID_BSidesSF.pdf)]
 [[TALK](https://www.youtube.com/watch?v=4acVKs9WPts)]
@@ -109,6 +108,12 @@ Presentations
 
 * Tongbo Luo, Cong Zheng, Zhi Xu, and Xin Ouyang, "*anti-plugin: don't let your app play as an android plugin*", in **BlackHat Asia'17**, 2017.
 [[PDF](https://www.blackhat.com/docs/asia-17/materials/asia-17-Luo-Anti-Plugin-Don't-Let-Your-App-Play-As-An-Android-Plugin.pdf)]
+
+* Tom Lancaster, "*Level up with Maltego*", EUCOM Joint Cyber Center, October 2017.
+[[TALK](https://github.com/PaloAltoNetworks/research-notes/blob/master/presentations/Level%20up%20with%20Maltego.pdf)]
+
+* Tom Lancaster, "*Unpicking Threats in Iran*", at a NATO event in April 2017.
+[[TALK](https://github.com/PaloAltoNetworks/research-notes/blob/master/presentations/Unpicking%20Threats%20in%20Iran.pptx)]
 
 ### 2016
 
