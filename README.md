@@ -170,6 +170,9 @@ We would be happy to contribute data sets to the security research community. [M
 Notes
 --------
 
+* Zhaoyan Xu, Yanhui Jia, Bo Qu, Xin Ouyang, "*Tracing Vulnerability CVE-2018-1002105 on Kubernetes*", 2018.12.14
+[[PDF](https://github.com/PaloAltoNetworks/research-notes/blob/master/notes/Tracing%20Vulnerability%20CVE-2018-1002105%20on%20Kubernetes.pdf)]
+
 * Bo Qu, "*Internet Explorer Fuzzing*"
 [Talk slide to be added]
 
