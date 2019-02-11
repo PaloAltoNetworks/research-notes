@@ -170,6 +170,9 @@ We would be happy to contribute data sets to the security research community. [M
 Notes
 --------
 
+* Yanhui Jia, Rongbo Shao, Yi Ren, Matt Tennis, Xin Ouyang, John Harrison, Jens Egger, Ashwin Dewan, "*DNS-based data exfiltration and infiltration technology and detection*", 2019.2.8
+[[PDF](https://github.com/PaloAltoNetworks/research-notes/blob/master/notes/DNS-based%20data%20exfiltration%20and%20infiltration%20technology%20and%20detection.pdf)]
+
 * Zhaoyan Xu, Yanhui Jia, Bo Qu, Xin Ouyang, "*Tracing Vulnerability CVE-2018-1002105 on Kubernetes*", 2018.12.14
 [[PDF](https://github.com/PaloAltoNetworks/research-notes/blob/master/notes/Tracing%20Vulnerability%20CVE-2018-1002105%20on%20Kubernetes.pdf)]
 
