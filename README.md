@@ -18,6 +18,10 @@ The team is comprised of:
 Publications
 --------
 ### 2019
+
+* Oleksii Starov, Yuchen Zhou, Jun Wang, "*Detecting Malicious Campaigns in Obfuscated JavaScript with Scalable Behavioral Analysis*", In Proceedings of the 4th International Workshop on Traffic Measurements for Cybersecurity (WTMC), 2019.
+[[REF](https://github.com/PaloAltoNetworks/research-notes/raw/master/papers/Detecting%20malicious%20campaigns%20in%20obfuscated%20JavaScript%20with%20scalable%20behavior%20analytics.pdf)]
+
 * Idan Amit, John Matherly, William Hewlett, Zhi Xu, Yinnon Meshi and Yigal Weinberger, "*Machine Learning in Cyber-Security - Problems, Challenges and Data Sets*", to be published in The AAAI-19 Workshop on Engineering Dependable and Secure Machine Learning Systems, 2019.
 [[REF](https://sites.google.com/view/edsmls2019/home)]
 
